@@ -1,11 +1,11 @@
 # Syarat test Arkademy
 **Batch 12 Kloter 5**
-*Bahasa yang digunakan PHP, JS
-*database menggunakan mysql dan phpMyAdmin
+* Bahasa yang digunakan PHP, JS
+* database menggunakan mysql dan phpMyAdmin
 
 **Sofware yang digunakan**
-*XAMPP 
-*Power Designer
+* XAMPP 
+* Power Designer
 
 **Langkah-Langkah Penggunaan**
 - Install XAMPP
@@ -18,4 +18,4 @@
 
 
 **Kegunaan JSON pada RestAPI**
-*sebagai format untuk menerima data dan mengirim data data web API ke client atau sebaliknya
+* sebagai format untuk menerima data dan mengirim data data web API ke client atau sebaliknya
