@@ -12,7 +12,7 @@
 - Buka Jalankan Module Apache dan Mysql yang ada pada XAMPP
 - Buat database baru dengan nama CRUD di phpMyAdmin
 - Pindah Ke Direktori xampp/htdocs
-- Clone: 
+- Clone: https://github.com/agung15-debug/arkademy
 - Import file __CRUD.sql__ ke database CRUD yang telah dibuat tadi
 - Buka browser, kemudian buka __localhost__
 
